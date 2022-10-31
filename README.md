@@ -20,7 +20,7 @@ The results indicate that the proposed models can generate datasets that maintai
 
 
 
-## Motivation and Main contributions
+## Motivations and Main contributions
 To see the motivations and main contributions of this work, please have a look at my master thesis, found at https://uis.brage.unit.no/uis-xmlui/handle/11250/3022990 
 
 
