@@ -1,0 +1,2 @@
+# CTGAN
+This is the official implementation of [CTGAN](https://arxiv.org/abs/1907.00503) model. We used the most up-to-date  version implemented in [The Synthetic Data Vault Project](https://sdv.dev/). Please check the official [CTGAN Homepage](https://github.com/sdv-dev/CTGAN) for the newest version of the model and comprehensive guidelines on how to use CTGAN synthesizer. 
