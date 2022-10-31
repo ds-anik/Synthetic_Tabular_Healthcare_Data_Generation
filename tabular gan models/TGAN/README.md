@@ -1,0 +1,2 @@
+# TGAN
+This is the official implementation of [TGAN](https://arxiv.org/abs/1811.11264) model. The first TGAN version was built as the supporting software for the original paper. Please check the official [TGAN Homepage](https://github.com/sdv-dev/TGAN) for the newest version of the model and comprehensive guidelines on how to use TGAN synthesizer.  
