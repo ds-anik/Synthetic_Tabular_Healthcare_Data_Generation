@@ -4,7 +4,6 @@ This is the official implementation of [CTAB-GAN](https://proceedings.mlr.press/
 
 ## Prerequisite
 
-The required package version
 ```
 numpy==1.21.0
 torch==1.9.1
