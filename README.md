@@ -2,7 +2,7 @@
 
 ## Overview
 - Master Thesis in Computational Engineering 
-- Unversity of Stavanger - Spring 2022 
+- Unversity of Stavanger (UiS) - Spring 2022 
 - Thesis was conducted in collaboration with SimulaMet center  
 - Supervisors: Michael Alexander Riegler, Andrea Storås
 
