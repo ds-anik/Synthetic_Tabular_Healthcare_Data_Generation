@@ -18,6 +18,7 @@ The results indicate that the proposed models can generate datasets that maintai
 ## BibTeX
 To cite the paper, please use this BibTeX citation
 
+```
 @inproceedings{nik2023generation,
   title={Generation of Synthetic Tabular Healthcare Data Using Generative Adversarial Networks},
   author={Nik, Alireza Hossein Zadeh and Riegler, Michael A and Halvorsen, P{\aa}l and Stor{\aa}s, Andrea M},
@@ -26,5 +27,5 @@ To cite the paper, please use this BibTeX citation
   year={2023},
   organization={Springer}
 }
-
+```
 
